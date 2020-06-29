@@ -1,0 +1,7 @@
+{
+	"name": "nebula-wp-child",
+	"version": "0.0.1",
+	"dependencies": {
+		"nebula-wp": "latest"
+	}
+}
